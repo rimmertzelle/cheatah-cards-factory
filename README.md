@@ -29,15 +29,16 @@ flowchart TD
 
 ### Steps
 
-| Step | Who    | Action                                                                 |
-| ---- | ------ | ---------------------------------------------------------------------- |
-| 1    | Claude | Asks for the lesson topic and learning goal                            |
-| 2    | Claude | Asks teacher to add materials to `input/`                              |
-| 3    | Claude | Analyses materials — extracts concepts, hooks, tension, misconceptions |
-| 4    | Claude | Creates a story outline (card-by-card arc with headline drafts)        |
-| 5    | Both   | Teacher reviews and approves the outline (or requests changes)         |
-| 6    | Claude | Writes full card copy following `card.md` guidelines                   |
-| 7    | Claude | Saves output to `output/<topic-slug>/cards.md` and confirms            |
+| Step | Who    | Action                                                                                                                         |
+| ---- | ------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| 1    | Claude | Asks for the lesson topic and learning goal                                                                                    |
+| 2    | Claude | Asks teacher to add materials to `input/`                                                                                      |
+| 3    | Claude | Analyses materials — extracts concepts, hooks, tension, misconceptions                                                         |
+| 4    | Claude | Creates a story outline (card-by-card arc with headline drafts)                                                                |
+| 5    | Both   | Teacher reviews and approves the outline (or requests changes)                                                                 |
+| 6    | Claude | Writes full card copy following `card.md` guidelines                                                                           |
+| 7    | Claude | Saves output to `output/<topic-slug>/cards.md` and confirms                                                                    |
+| 8    | Claude | Generates a layered cheatsheet (Novice / Mediate / Expert) from input materials, saved to `output/<topic-slug>/cheatsheet.md`  |
 
 ---
 

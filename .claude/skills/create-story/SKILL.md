@@ -175,3 +175,83 @@ Confirm with the teacher:
 > "All cards are saved in `output/<topic-slug>/cards.md`.
 > The story has [N] cards and takes approximately [X] minutes to swipe through.
 > Let me know if you'd like to adjust any card before the final version."
+
+---
+
+## Step 8 — Create the Layered Cheatsheet
+
+Using the input materials from `input/` (not just the cards), generate a reference cheatsheet for students.
+
+The cheatsheet has three layers — all printed on a single A4 page. Each layer gives a different level of detail for the same concepts. Students can use the layer that matches their own knowledge level.
+
+### Three layers
+
+| Layer    | Who it's for                                | Detail level                                  |
+| -------- | ------------------------------------------- | --------------------------------------------- |
+| Novice   | Students new to this topic                  | Full definitions, examples, context sentences |
+| Mediate  | Students with some prior knowledge          | Key terms + short definitions, no examples    |
+| Expert   | Students who know the topic well            | Terms and one-line reminders only             |
+
+### Format rules
+
+- All three layers must fit together on one A4 page
+- Structure the page in three clearly labelled sections: **Novice**, **Mediate**, **Expert**
+- Use the same concepts across all three layers — only the depth changes
+- Novice section: largest, takes roughly half the page
+- Mediate section: takes roughly one third
+- Expert section: takes the remaining strip — terms and one-line cues only
+- Use clean markdown: headers, short paragraphs, bullet points, and a divider between layers
+- No prose introductions — every line must be directly usable by a student
+
+### What to include
+
+Extract from the input materials:
+- All key concepts and definitions introduced in the lesson
+- Any frameworks, models, or named theories
+- Any important distinctions (e.g. buyer journey vs customer journey)
+- Any formulas, steps, or sequences that students need to apply
+
+Prioritise concepts that appear in the story cards — those are the ones students will arrive having encountered.
+
+### Output format
+
+```markdown
+# Cheatsheet — [Topic]
+
+---
+
+## Novice
+*Full definitions and examples — for students new to this topic*
+
+**[Concept name]**
+[Definition in 1–2 sentences.] [Example: ...]
+
+**[Concept name]**
+...
+
+---
+
+## Mediate
+*Key terms and short definitions — for students with some prior knowledge*
+
+**[Concept name]** — [One-sentence definition]
+**[Concept name]** — [One-sentence definition]
+...
+
+---
+
+## Expert
+*Quick reminders only — for students who already know this topic*
+
+- [Concept]: [5–10 word cue]
+- [Concept]: [5–10 word cue]
+...
+```
+
+Save the file: `output/<topic-slug>/cheatsheet.md`
+
+Confirm with the teacher:
+
+> "The cheatsheet is saved in `output/<topic-slug>/cheatsheet.md`.
+> It has three layers (Novice / Mediate / Expert) and is designed to fit on one A4 page.
+> Let me know if you'd like to adjust the depth or content of any layer."
