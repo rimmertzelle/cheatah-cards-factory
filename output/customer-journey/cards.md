@@ -94,13 +94,13 @@
 
 ## Story Summary
 
-| Card | Type        | Headline (first 6 words...)                  | Persona focus |
-| ---- | ----------- | -------------------------------------------- | ------------- |
-| 1    | Hook        | You've been on hundreds of...                | Both          |
-| 2    | Situation   | Lotte just started her first...              | Sanne         |
-| 3    | Tension     | Great product. Good reviews. And still...    | Both          |
-| 4    | Concept     | The purchase is phase 3...                   | Sanne         |
-| 5    | Concept     | Every time a customer touches your...        | Both          |
-| 6    | Data        | 400 million people shared Spotify's...       | Both          |
-| 7    | Reflection  | Think of a brand you'd genuinely...          | Elias         |
-| 8    | Cliffhanger | How do you design a journey...               | Both          |
+| Card | Type        | Headline (first 6 words...)               | Persona focus |
+| ---- | ----------- | ----------------------------------------- | ------------- |
+| 1    | Hook        | You've been on hundreds of...             | Both          |
+| 2    | Situation   | Lotte just started her first...           | Sanne         |
+| 3    | Tension     | Great product. Good reviews. And still... | Both          |
+| 4    | Concept     | The purchase is phase 3...                | Sanne         |
+| 5    | Concept     | Every time a customer touches your...     | Both          |
+| 6    | Data        | 400 million people shared Spotify's...    | Both          |
+| 7    | Reflection  | Think of a brand you'd genuinely...       | Elias         |
+| 8    | Cliffhanger | How do you design a journey...            | Both          |

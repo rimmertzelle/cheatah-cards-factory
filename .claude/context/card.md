@@ -130,6 +130,26 @@ Each card should be conceived with a visual in mind. When writing a card, note w
 
 ---
 
+## Student Actions
+
+After reading each card, the student makes one of three decisions:
+
+| Action         | What it means                                              |
+| -------------- | ---------------------------------------------------------- |
+| **Cheatsheet** | "This is key knowledge I want to keep"                     |
+| **Know more**  | "This is interesting — I want to go deeper"                |
+| **Park**       | "I don't fully get this yet — I'll come back to it"        |
+
+These are the student's decisions to make — not something the card prescribes. The card does not guide the student toward a particular action. Instead, write every card so that all three decisions remain genuinely available:
+
+- **Cheatsheet is possible** when the headline is self-contained and precise enough to stand alone as a note.
+- **Know more is possible** when the card opens a question it does not fully answer.
+- **Park is possible** when the card introduces complexity without over-explaining it.
+
+A card that forces a single obvious response — or that tries to close every question — removes meaningful choice from the student.
+
+---
+
 ## Quality Checklist
 
 Before finalising a card:
@@ -138,6 +158,8 @@ Before finalising a card:
 - [ ] One idea only — no concept stacking
 - [ ] Body is 3 sentences or fewer (or absent)
 - [ ] Visual direction is specified
+- [ ] Headline is precise enough to be cheatsheet-worthy on its own
+- [ ] Card opens at least one question it does not fully answer
 - [ ] Fits its role in the story arc (hook / build / cliffhanger)
 - [ ] Readable in 10–15 seconds
 - [ ] Tone matches the moment in the story

@@ -141,6 +141,7 @@ Apply the card writing principles from `card.md`:
 - Prompt invites, does not test
 - Each card readable in 10–15 seconds
 - Tone matches the card type
+- All three student actions (Cheatsheet / Know more / Park) remain genuinely available
 
 ---
 
