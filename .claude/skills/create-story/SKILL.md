@@ -141,7 +141,11 @@ Apply the card writing principles from `card.md`:
 - Prompt invites, does not test
 - Each card readable in 10–15 seconds
 - Tone matches the card type
+- Every card has emotional charge — tension, surprise, recognition, or discomfort
+- The headline provokes; the body deepens the feeling, not just the information
 - All three student actions (Cheatsheet / Know more / Park) remain genuinely available
+
+For each card, ask before finalising: *What does the student feel when they finish reading this?* If the answer is "nothing in particular" — rewrite it.
 
 ---
 

@@ -102,6 +102,18 @@ A prompt on a card is not a quiz question. It should feel like a conversation op
 **Write for a 10-second read.**
 If reading the card takes longer than 10–15 seconds, it has too much text. Cut until it doesn't.
 
+**Every card needs emotional charge.**
+A student who feels nothing will choose nothing. The three student decisions only become meaningful when the card creates a feeling — tension, surprise, recognition, or discomfort. Without that charge, the student has nothing to act on.
+
+- **Tension** keeps something unresolved. The student feels they need to come back to it.
+- **Surprise or recognition** makes something click. The student feels it's worth keeping.
+- **Wonder or an open pull** draws the student forward. They want to know how this ends.
+
+Before finalising a card, ask: *what does the student feel when they finish reading this?* If the answer is "nothing in particular" — the card is not ready.
+
+**Headlines provoke; bodies deepen.**
+The headline should create or land the emotional beat. The body, when present, should deepen that feeling — not just add information. A body that explains without resonating is dead weight.
+
 ---
 
 ## Visual Direction
@@ -132,21 +144,25 @@ Each card should be conceived with a visual in mind. When writing a card, note w
 
 ## Student Actions
 
-After reading each card, the student makes one of three decisions:
+After reading each card, the student makes a self-assessment:
 
-| Action         | What it means                                              |
-| -------------- | ---------------------------------------------------------- |
-| **Cheatsheet** | "This is key knowledge I want to keep"                     |
-| **Know more**  | "This is interesting — I want to go deeper"                |
-| **Park**       | "I don't fully get this yet — I'll come back to it"        |
+| Action                        | What it means                                     | Effect on cheatsheet                              |
+| ----------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| **I already know this**       | "I'm familiar with this — I've got it"            | Captured briefly; lower depth and priority        |
+| **I really don't care**       | "I don't see why this matters to me"              | Captured; flagged — relevance not yet clear       |
+| **I don't know**              | "This is new or unclear to me"                    | Captured with more depth and higher priority      |
 
-These are the student's decisions to make — not something the card prescribes. The card does not guide the student toward a particular action. Instead, write every card so that all three decisions remain genuinely available:
+Every card ends up on the cheatsheet. The student's action determines the order and depth — not whether the content is captured. This makes the action a form of metacognition: the student is assessing their own knowledge and engagement, not filtering what they keep.
 
-- **Cheatsheet is possible** when the headline is self-contained and precise enough to stand alone as a note.
-- **Know more is possible** when the card opens a question it does not fully answer.
-- **Park is possible** when the card introduces complexity without over-explaining it.
+### Design implications
 
-A card that forces a single obvious response — or that tries to close every question — removes meaningful choice from the student.
+**"I already know this" is honest** when the headline is precise enough that the student can genuinely assess their familiarity — not just recognise a word, but actually understand the concept. Vague headlines make this action meaningless: a student can say "I already know this" about anything they've vaguely heard of.
+
+**"I really don't care" is hard to choose** when the card makes relevance personal and immediate. If a student reaches for this action, the card has failed to connect. A card that feels abstract, distant from their work, or obviously irrelevant invites this response. That is a design problem, not a student problem.
+
+**"I don't know" is genuine** when the card introduces something counter-intuitive, precise, or new — something the student could not have safely assumed. A card where every student picks "I already know this" is either too familiar or too vague. It is teaching nothing.
+
+Emotional charge is what makes the self-assessment honest. A card that creates surprise, tension, or recognition pushes the student to respond truthfully — not to pick the most comfortable option.
 
 ---
 
@@ -158,8 +174,9 @@ Before finalising a card:
 - [ ] One idea only — no concept stacking
 - [ ] Body is 3 sentences or fewer (or absent)
 - [ ] Visual direction is specified
-- [ ] Headline is precise enough to be cheatsheet-worthy on its own
-- [ ] Card opens at least one question it does not fully answer
+- [ ] Headline is precise enough that "I already know this" requires real familiarity — not just recognition of a word
+- [ ] Card makes its relevance personal enough that "I really don't care" is genuinely hard to choose
+- [ ] Card introduces something specific enough that "I don't know" is a real and honest option
 - [ ] Fits its role in the story arc (hook / build / cliffhanger)
 - [ ] Readable in 10–15 seconds
 - [ ] Tone matches the moment in the story
